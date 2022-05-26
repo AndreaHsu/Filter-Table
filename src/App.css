@@ -1,0 +1,82 @@
+.App {
+  padding-top: 30px;
+  width: 85%;
+  margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.table {
+  margin: auto;
+}
+.input {
+  margin:15px;
+  padding: 5px 15px;
+  width: 300px;
+}
+.in {
+  margin:15px;
+  padding: 5px 15px;
+  width: 12%;
+}
+
+.item {
+  list-style: none;
+  margin: 10px 10px;
+  padding: 10px;
+  /* background: #eee; */
+  /* display: flex; */
+  /* justify-content: space-between; */
+}
+.item-url {
+  width: 3%;
+  height: 5%;
+  text-align: center;
+}
+.item-type {
+  width: 10%;
+  height: 5%;
+  margin: auto
+}
+.item-opentime {
+  width: 12%;
+  height: 5%;
+  margin: auto
+}
+.item-addr {
+  width: 25%;
+  height: 5%;
+  margin: auto
+}
+.item-remark {
+  width: 15%;
+  height: 60px;
+  margin: auto
+}
+.item-price {
+  width: 8%;
+  height: 60px;
+}
+.item-hoa {
+  width: 8%;
+  height: 60px;
+}
+.item-dom {
+  width: 8%;
+  height: 60px;
+}
+.but {
+  background-color: transparent;
+  border-width: 0;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  padding: 0;
+}
+.but-group {
+  text-align: right;
+}
